@@ -40,6 +40,6 @@ h2 {
 #press a {
   display:inline-block;
   border:5px solid rgb(204, 204, 204);
-  padding: 0;
+  margin: 0;
   
 }
