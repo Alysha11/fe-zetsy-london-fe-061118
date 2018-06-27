@@ -28,6 +28,10 @@ body {
   margin: 0 0 5px;
 }
 
+h1:hover{
+  color: rgb(114,126,122);
+}
+
 header img{
   border:5px solid rgb(156,172,166);
 }
