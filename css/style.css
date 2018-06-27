@@ -41,6 +41,9 @@ header img{
   text-decoration: none;
 }
 
+#featured p a:hover{
+  text-decoration: underline;
+}
 
 h2 {
   color:rgb(111,127,122);
