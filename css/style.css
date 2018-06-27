@@ -38,6 +38,7 @@ h2 {
 }
 
 #press a {
+  display:block;
   border:5px solid rgb(204, 204, 204);
   
 }
