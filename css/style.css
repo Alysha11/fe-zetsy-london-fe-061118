@@ -36,6 +36,12 @@ header img{
   border:5px solid rgb(156,172,166);
 }
 
+#featured p a {
+  
+  text-decoration: none;
+}
+
+
 h2 {
   color:rgb(111,127,122);
   font-size: 2em;
